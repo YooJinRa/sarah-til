@@ -54,3 +54,7 @@
 - 스택 포인터 : 스택 최상단의 위치를 저장
 - 범용 레지스터 : 데이터와 주소를 모두 저장
 - 베이스 레지스터 : 저장된 주소는 기준 주소로서 역할을 함
+
+---
+
+<img src="https://github.com/YooJinRa/sarah-til/blob/main/computer-architecture/images/image-cpu.jpeg?raw=true" alt="cpu" width="700" />
